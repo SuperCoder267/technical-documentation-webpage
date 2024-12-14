@@ -68,7 +68,7 @@ html {
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
-.main-section h2 {
+.main-section header {
     font-size: 1.8rem;
     margin-bottom: 10px;
     color: #222;
